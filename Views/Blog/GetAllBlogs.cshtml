@@ -1,0 +1,246 @@
+﻿@using Microsoft.AspNetCore.Http
+@model IEnumerable<WattPad.Models.BlogModel>
+
+@{
+    ViewData["Title"] = "GetAllBlogs";
+}
+
+   <!--Bootstrap Css-->
+        <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+        <!--meanmenu.css-->
+        <link rel="stylesheet" href="~/assets/css/meanmenu.css">
+        <!--Owl carousel-->
+        <link rel="stylesheet" href="~/assets/css/owl.carousel.min.css">
+        <!--Owl Theme-->
+        <link rel="stylesheet" href="~/assets/css/owl.theme.default.min.css">
+        <!--magnific-popup-->
+        <link rel="stylesheet" href="~/assets/css/magnific-popup.css">
+        <!--Animate.css-->
+        <link rel="stylesheet" href="~/assets/css/animate.min.css">
+        <!--Flaticon-->
+        <link rel="stylesheet" href="~/assets/css/flaticon.css">
+        <!--Remixicon-->
+        <link rel="stylesheet" href="~/assets/css/remixicon.css">
+        <!--Odometer-->
+        <link rel="stylesheet" href="~/assets/css/odometer.min.css">
+        <!--aos css-->
+        <link rel="stylesheet" href="~/assets/css/aos.css">
+        <!--style.css-->
+        <link rel="stylesheet" href="~/assets/css/style.css">
+        <!--Resposive-->
+        <link rel="stylesheet" href="~/assets/css/responsive.css">
+        <title>Peku - Political HTML Template</title>
+        <link rel="icon" type="image/png" href="~/assets/images/favicon.png">
+
+        <!-- Start Preloader Area -->
+     @*   <div class="preloader">
+            <div class="d-table">
+                <div class="d-table-cell">
+                    <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+                </div>
+            </div>
+        </div>*@
+        <!-- End Preloader Area -->
+        
+        <!--header area-->
+        <div class="header-area">
+           
+            <!--End Top bar-->
+            <!-- Start Navbar Area -->
+            <div class="navbar-area">
+                <!-- Menu For Mobile Device -->
+                <div class="mobile-nav">
+                    <a href="index.html" class="logo">
+                        <img src="~/assets/images/wp-logo.png" alt="logo">
+                    </a>
+                </div>
+
+                <!-- Menu For Desktop Device -->
+                <div class="main-nav bg-nav">
+                    <div class="container-fluid">
+                        <nav class="navbar navbar-expand-md navbar-light">
+                            <a class="navbar-brand" href="index.html">
+                                <img src="~/assets/images/wp-logo.png" alt="logo">
+                            </a>
+
+                            <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+
+                                <ul class="navbar-nav m-auto">
+
+                                    <li class="nav-item">
+
+                                        <a href="#" class="nav-link dropdown-toggle active">Browse</a>
+
+                                        <ul class="dropdown-menu">
+
+                                            <li class="nav-item">
+                                                <a href="index.html" class="nav-link">Paid Stories</a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a href="index-2.html" class="nav-link active">Poetry</a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a href="index-3.html" class="nav-link">Adventure</a>
+                                            </li>
+
+                                        </ul>
+
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="about.html" class="nav-link">Writer Opportunities</a>
+                                    </li>
+
+                                    <li class="nav-item">
+
+                                        <a href="#" class="nav-link dropdown-toggle">Writer Resources</a>
+
+                                        <ul class="dropdown-menu">
+
+                                            <li class="nav-item">
+                                                <a href="events.html" class="nav-link">Writer Programs</a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a href="events-details.html" class="nav-link">Writer Contests</a>
+                                            </li>
+
+                                        </ul>
+
+                                    </li>
+
+                                    <li class="nav-item">
+
+                                        <a href="#" class="nav-link dropdown-toggle">Community</a>
+
+                                        <ul class="dropdown-menu">
+                                            
+                                            <li class="nav-item">
+                                                <a href="missions.html" class="nav-link">The Wattys</a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a href="missions-details.html" class="nav-link">Community Happenings</a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a href="volunteer.html" class="nav-link">Wattpad Ambassadors</a>
+                                            </li> 
+                                            
+                                        
+
+                                    </li>
+                                    <li class="nav-item">
+                                        <ul>
+                                             <div class="option-item">
+                                              <i class="search-btn ri-search-line"></i>
+                                             <form class="search-form">
+                                                        <input class="search-input" placeholder="Search..." type="text">
+                                                        
+                                                    </form>
+                                             </div>
+                                            </li>
+
+
+                                        </ul>
+
+                                    </li>
+
+                                    
+
+                                </ul>
+                            </div>
+
+                            <div class="others-options">
+                                <ul>
+                                   
+                                    <li>
+                                        <a href="https://localhost:44386/User/Login" class="btn default-btn">Login</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+                <div class="others-option-for-responsive">
+                    <div class="container">
+                        <div class="dot-menu">
+                            <div class="inner">
+                                <div class="circle circle-one"></div>
+                                <div class="circle circle-two"></div>
+                                <div class="circle circle-three"></div>
+                            </div>
+                        </div>
+                        
+                        <div class="container">
+                            <div class="option-inner">
+                                <div class="others-options justify-content-center d-flex align-items-center">
+                                    <ul>
+                                        <li>
+                                            <div class="option-item">
+                                                <i class="search-btn ri-search-line"></i>
+                                                <i class="close-btn ri-close-line"></i>
+                                                <div class="search-overlay search-popup">
+                                                    <div class="search-box">
+                                                        <form class="search-form">
+                                                            <input class="search-input" placeholder="Search..." type="text">
+                                                            <button class="search-button">
+                                                                <i class="ri-search-line"></i>
+                                                            </button>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <a href="https://localhost:44386/User/Login" class="btn default-btn">Login</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Navbar Area -->
+
+
+<div class="table-responsive-lg">
+    <table class="row" >
+        <tr class="table-headers">
+             <th style="border:1px solid black;width:5vw;">@Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th style="border:1px solid black;width:5vw;">@Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th style="border:1px solid black;width:5vw;">@Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th style="border:1px solid black;width:5vw;">@Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th style="border:1px solid black;width:5vw;">Button</th>
+        </tr>
+        @foreach (var item in Model) {
+        <tr>
+             <td style="border:1px solid black">@Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td style="border:1px solid black;width:5vw;">@Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td style="border:1px solid black;width:5vw;">@Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td style="border:1px solid black;width:5vw;">@Html.DisplayFor(modelItem => item.Content)
+            </td>          
+           <td style="border:1px solid black;width:5vw;">
+                <a href="@Url.Action("EditBlog", new { id=item.Id })">Edit</a>
+                <a href="@Url.Action("Delete", new { id=item.Id })">Delete</a>
+                                   
+            </td>
+
+        </tr>
+        }
+    </table>
+   </div>
+    
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>

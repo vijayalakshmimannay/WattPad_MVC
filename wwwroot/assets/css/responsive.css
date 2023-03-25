@@ -1,0 +1,1161 @@
+@media only screen and (max-width: 767px) {
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pb-50 {
+    padding-bottom: 30px;
+  }
+  .ptb-50 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .pt-50 {
+    padding-top: 20px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  p {
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+  .default-btn {
+    padding: 10px 20px;
+  }
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title span {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .section-title h2 {
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  .section-title p {
+    margin-bottom: 15px;
+    font-size: 14px;
+  }
+  .header-area {
+    position: unset;
+  }
+  .top-bar {
+    text-align: center;
+  }
+  .top-bar .container-fluid .city-news {
+    margin-bottom: 10px;
+  }
+  .top-bar .container-fluid .social-area {
+    text-align: center;
+  }
+  .banner-area .container-fluid .hero-slider {
+    padding-top: 85px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content span {
+    font-size: 13px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content p {
+    margin-bottom: 20px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content .btn-area {
+    margin-bottom: 30px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content .btn-area a {
+    font-size: 13px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content .btn-area .default-btn {
+    margin-right: 10px;
+  }
+  .banner-area .container-fluid .hero-slider.owl-theme .owl-dots {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+  }
+  .about-leader-area .leader-img {
+    margin-bottom: 24px;
+    padding-left: 0;
+  }
+  .about-leader-area .leader-img .leader-counter {
+    padding: 20px;
+    left: 20px;
+    top: 15%;
+  }
+  .about-leader-area .leader-img .leader-counter i {
+    font-size: 20px;
+  }
+  .about-leader-area .leader-img .leader-counter h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .about-leader-area .leader-img .leader-counter p {
+    font-size: 15px;
+  }
+  .about-leader-area .about-content span {
+    font-size: 14px;
+  }
+  .about-leader-area .about-content h2 {
+    font-size: 20px;
+  }
+  .about-leader-area .about-content .sign img {
+    margin-bottom: 20px;
+  }
+  .about-leader-area .about-content .sign .sign-content::before {
+    display: none;
+  }
+  .politics-future-area .future-slider .future-card .future-content {
+    padding: 20px;
+  }
+  .politics-future-area .future-slider .future-card .future-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: -40px;
+  }
+  .politics-future-area .future-slider .future-card .future-content p {
+    margin-bottom: 15px;
+  }
+  .donation .donation-content {
+    padding-bottom: 30px;
+  }
+  .donation .donation-content img {
+    margin-bottom: 20px;
+  }
+  .donation .donation-content .donate-text {
+    padding: 20px;
+  }
+  .donation .donation-content .donate-text h3 {
+    font-size: 18px;
+  }
+  .donation .donation-content .donate-text ul {
+    margin-bottom: 25px;
+  }
+  .donation .donation-content .donate-text ul li {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 10px;
+  }
+  .donation .donation-content .donate-text .default-btn {
+    margin-right: 10px;
+    font-size: 13px;
+  }
+  .donation .donation-content .donate-text .btn2 {
+    font-size: 13px;
+  }
+  .donation .donation-counter {
+    padding: 20px 0;
+  }
+  .donation .donation-counter i {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .donation .donation-counter h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .counter-area .single-counter-card {
+    padding-left: 130px;
+    margin-bottom: 30px;
+  }
+  .counter-area .single-counter-card::before {
+    display: none;
+  }
+  .counter-area .single-counter-card h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .counter-area .single-counter-card .icon {
+    top: 5px;
+  }
+  .counter-area .col-lg-3:last-child .single-counter-card {
+    margin-bottom: 0;
+  }
+  .ideology-area .single-ideology-card .ideology-content h3 {
+    font-size: 20px;
+  }
+  .biography-area .biography-slider .biography-item {
+    margin-bottom: 15px;
+  }
+  .biography-area .biography-slider .biography-item .biography-text {
+    padding: 20px;
+  }
+  .biography-area .biography-slider .biography-item .biography-text h3 {
+    font-size: 20px;
+  }
+  .biography-area .biography-slider .biography-item .biography-text p {
+    margin-bottom: 0;
+  }
+  .biography-area .biography-slider .biography-item .biography-text .year {
+    display: none;
+  }
+  .biography-area.live {
+    padding-top: 0;
+  }
+  .future-card .future-content {
+    padding: 20px;
+  }
+  .future-card .future-content i {
+    bottom: 52px;
+  }
+  .future-card .future-content h3 {
+    margin-bottom: 15px;
+  }
+  .future-card .future-content h3 a {
+    font-size: 20px;
+  }
+  .future-card .future-content p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .testimonial-area {
+    padding-bottom: 60px;
+  }
+  .testimonial-area .testimonial-slider .single-testimonial-card ul {
+    margin-bottom: 10px;
+  }
+  .testimonial-area .testimonial-slider .single-testimonial-card p {
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  .testimonial-area .testimonial-slider .single-testimonial-card .profile h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .events-area {
+    padding-bottom: 100px;
+  }
+  .events-area .events-card {
+    display: none;
+  }
+  .events-area .single-events-card .events-content {
+    padding: 10px;
+    -webkit-box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+            box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+  }
+  .events-area .single-events-card .events-content ul {
+    margin-bottom: 10px;
+  }
+  .events-area .single-events-card .events-content ul li {
+    font-size: 11px;
+  }
+  .events-area .single-events-card .events-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .events-area.pb-20 {
+    padding-bottom: 20px !important;
+  }
+  .events-area.bottom {
+    padding-bottom: 20px;
+  }
+  .events-area.pt-20 {
+    padding-top: 20px;
+  }
+  .subscribe-area .subscribe-content h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .subscribe-area .subscribe-content .form-group .form-control {
+    height: 50px;
+  }
+  .subscribe-area .subscribe-content .form-group .default-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  .single-blog-card .blog-contant {
+    padding: 15px;
+  }
+  .single-blog-card .blog-contant ul {
+    margin-bottom: 10px;
+  }
+  .single-blog-card .blog-contant ul li {
+    font-size: 11px;
+  }
+  .single-blog-card .blog-contant h3 {
+    font-size: 20px;
+  }
+  .single-blog-card .blog-contant p {
+    margin-bottom: 15px;
+  }
+  .footer-area .logo-area {
+    margin-bottom: 30px;
+  }
+  .footer-area .logo-area img {
+    margin-bottom: 20px;
+  }
+  .footer-area .widget-area {
+    margin-bottom: 30px;
+  }
+  .footer-area .widget-area h3 {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  .footer-area .widget-area h3::before {
+    top: 30px;
+  }
+  .footer-area .widget-area ul li a {
+    font-size: 15px;
+  }
+  .footer-area .official-info h3 {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  .footer-area .official-info h3::before {
+    top: 30px;
+  }
+  .footer-area .official-info ul li {
+    font-size: 15px;
+  }
+  .banner-area2 .container-fluid .hero-area {
+    padding-top: 120px;
+  }
+  .banner-area2 .container-fluid .hero-area .banner-content span {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .banner-area2 .container-fluid .hero-area .banner-content h1 {
+    font-size: 30px;
+    line-height: 44px;
+    margin-bottom: 15px;
+  }
+  .banner-area2 .container-fluid .hero-area .banner-content p {
+    margin-bottom: 15px;
+  }
+  .banner-area2 .container-fluid .hero-area .banner-content .btn-area {
+    margin-bottom: 0;
+  }
+  .banner-area2 .container-fluid .hero-area .banner-content .btn-area .default-btn {
+    margin-right: 8px;
+  }
+  .about-leader-area .leader-img .leader-counter {
+    display: none;
+  }
+  .single-testimonial-card {
+    padding: 20px;
+  }
+  .single-testimonial-card ul {
+    margin-bottom: 15px;
+  }
+  .single-testimonial-card p {
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content span {
+    font-size: 14px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content h1 {
+    font-size: 36px;
+    line-height: 46px;
+    margin-bottom: 20px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content p {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content .btn-area {
+    margin-bottom: 30px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content .btn-area a {
+    margin-right: 3px;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 15px;
+  }
+  .common-header {
+    margin-top: 70px;
+  }
+  .common-header .content {
+    padding: 80px 0;
+  }
+  .common-header .content h2 {
+    font-size: 30px;
+  }
+  .common-header .content ul li {
+    font-size: 14px;
+  }
+  .events-details-area .details h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .events-details-area .details .list {
+    margin-bottom: 30px;
+  }
+  .events-details-area .events-details {
+    padding: 20px;
+  }
+  .events-details-area .events-details h3 {
+    font-size: 18px;
+  }
+  .events-details-area .events-details ul li {
+    padding-bottom: 10px;
+    font-size: 11px;
+  }
+  .events-details-area .future .futures-card h3 {
+    font-size: 15px;
+  }
+  .events-details-area .future .futures-card p {
+    font-size: 14px;
+  }
+  .mission-details-area {
+    padding-bottom: 30px;
+  }
+  .mission-details-area .misssion .misssion-card h3 {
+    font-size: 21px;
+    margin-bottom: 10px;
+  }
+  .mission-details-area .misssion .misssion-card p {
+    font-size: 14px;
+  }
+  .mission-details-area .process {
+    margin-bottom: 30px;
+  }
+  .donation-area .donate ul {
+    margin-bottom: 30px;
+  }
+  .donation-area .donate ul li {
+    margin-bottom: 20px;
+  }
+  .donation-area .form-group {
+    margin-bottom: 20px;
+  }
+  .volunteer .form-group {
+    margin-bottom: 20px;
+  }
+  .team-area .team-card .img-area .social-area ul li {
+    margin-right: 5px;
+  }
+  .faq-area .faq-img {
+    margin-bottom: 30px;
+  }
+  .faq-area .faq .section-title h2 {
+    font-size: 20px;
+  }
+  .faq-area .faq .accordion .accordion-item .accordion-body {
+    font-size: 13px;
+  }
+  .faq-area .faq .accordion .accordion-item .accordion-button {
+    font-size: 16px;
+  }
+  .privacy-area h4 {
+    font-size: 18px;
+  }
+  .privacy-area p {
+    font-size: 14px;
+  }
+  .privacy-area ul li {
+    font: 14px;
+  }
+  .condition-area h4 {
+    font-size: 18px;
+  }
+  .condition-area p {
+    font-size: 14px;
+  }
+  .condition-area ul li {
+    font: 14px;
+  }
+  .register-area .registration {
+    padding: 20px;
+  }
+  .register-area .registration h3 {
+    font-size: 18px;
+  }
+  .register-area .registration .form-group {
+    margin-bottom: 20px;
+  }
+  .register-area .registration .form-group .form-control {
+    padding: 10px;
+  }
+  .login-area .login {
+    padding: 20px;
+  }
+  .login-area .login h3 {
+    font-size: 18px;
+  }
+  .login-area .login .form-group {
+    margin-bottom: 20px;
+  }
+  .login-area .login .form-group .form-control {
+    padding: 10px;
+  }
+  .error-area h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .error-area p {
+    font-size: 14px;
+  }
+  .comming-soon-area .comming-soon h1 {
+    font-size: 30px;
+  }
+  .search-area {
+    padding: 20px;
+  }
+  .search-area .form-group .form-control {
+    height: 46px;
+  }
+  .categories {
+    padding: 20px;
+  }
+  .categories h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .categories ul li {
+    padding-bottom: 10px;
+  }
+  .popular-post {
+    padding: 20px;
+  }
+  .popular-post h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .popular-post .popular-card span {
+    font-size: 13px;
+  }
+  .popular-post .popular-card p {
+    font-size: 14px;
+  }
+  .tags {
+    padding: 20px;
+  }
+  .blog-details-area .quote {
+    padding: 20px;
+  }
+  .blog-details-area .quote .quote-content {
+    padding: 0;
+  }
+  .blog-details-area .quote .quote-content .icon {
+    position: unset;
+    font-size: 45px;
+  }
+  .blog-details-area .social-area {
+    padding: 20px;
+  }
+  .blog-details-area .social-area .share {
+    text-align: left;
+  }
+  .blog-details-area .reply-area {
+    padding: 20px;
+  }
+  .blog-details-area .reply-area h3 {
+    margin-bottom: 20px;
+  }
+  .blog-details-area .reply-area p {
+    margin-bottom: 20px;
+  }
+  .contact-area .address-area .address-card {
+    margin-bottom: 20px;
+  }
+  .contact-area .address-area .address-card .address-content p {
+    font-size: 13px;
+  }
+  .contact-area .contact .contact-form {
+    padding: 20px;
+  }
+  .contact-area .contact .contact-form .form-group {
+    margin-bottom: 20px;
+  }
+  .contact-area .contact .map iframe {
+    height: 300px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pb-50 {
+    padding-bottom: 30px;
+  }
+  .ptb-50 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .pt-50 {
+    padding-top: 20px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  p {
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+  .default-btn {
+    padding: 10px 20px;
+  }
+  .section-title {
+    margin-bottom: 30px;
+  }
+  .section-title span {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .section-title h2 {
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  .section-title p {
+    margin-bottom: 15px;
+    font-size: 14px;
+  }
+  .header-area {
+    position: unset;
+  }
+  .top-bar {
+    text-align: center;
+  }
+  .top-bar .container-fluid .city-news {
+    margin-bottom: 10px;
+  }
+  .top-bar .container-fluid .social-area {
+    text-align: center;
+  }
+  .banner-area .container-fluid .hero-slider {
+    padding-top: 90px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content span {
+    font-size: 13px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content h1 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content p {
+    margin-bottom: 20px;
+  }
+  .banner-area .container-fluid .hero-slider.owl-theme .owl-dots {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+  }
+  .about-leader-area .leader-img {
+    margin-bottom: 30px;
+    padding-left: 0;
+  }
+  .about-leader-area .leader-img .leader-counter {
+    padding: 20px;
+    left: 20px;
+    top: 35%;
+  }
+  .about-leader-area .leader-img .leader-counter i {
+    font-size: 20px;
+  }
+  .about-leader-area .leader-img .leader-counter h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .about-leader-area .leader-img .leader-counter p {
+    font-size: 15px;
+  }
+  .about-leader-area .about-content span {
+    font-size: 14px;
+  }
+  .about-leader-area .about-content h2 {
+    font-size: 24px;
+  }
+  .about-leader-area .about-content .sign img {
+    margin-bottom: 20px;
+  }
+  .about-leader-area .about-content .sign .sign-content::before {
+    display: none;
+  }
+  .politics-future-area .future-slider .future-card .future-content {
+    padding: 20px;
+  }
+  .politics-future-area .future-slider .future-card .future-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: -40px;
+  }
+  .politics-future-area .future-slider .future-card .future-content p {
+    margin-bottom: 15px;
+  }
+  .donation .donation-content {
+    padding-bottom: 30px;
+  }
+  .donation .donation-content img {
+    margin-bottom: 20px;
+  }
+  .donation .donation-content .donate-text {
+    padding: 30px;
+  }
+  .donation .donation-content .donate-text h3 {
+    font-size: 20px;
+  }
+  .donation .donation-content .donate-text ul {
+    margin-bottom: 25px;
+  }
+  .donation .donation-content .donate-text ul li {
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+  .donation .donation-content .donate-text .default-btn {
+    margin-right: 10px;
+  }
+  .donation .donation-counter {
+    padding: 20px 0;
+  }
+  .donation .donation-counter i {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .donation .donation-counter h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .counter-area {
+    padding-bottom: 20px;
+  }
+  .counter-area .single-counter-card {
+    padding-left: 130px;
+    margin-bottom: 30px;
+  }
+  .counter-area .single-counter-card::before {
+    display: none;
+  }
+  .counter-area .single-counter-card h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .counter-area .single-counter-card .icon {
+    top: 5px;
+  }
+  .counter-area .col-lg-3:last-child .single-counter-card {
+    margin-bottom: 0;
+  }
+  .ideology-area .single-ideology-card .ideology-content h3 {
+    font-size: 20px;
+  }
+  .biography-area .biography-slider .biography-item {
+    margin-bottom: 15px;
+  }
+  .biography-area .biography-slider .biography-item .biography-text {
+    padding: 20px;
+  }
+  .biography-area .biography-slider .biography-item .biography-text h3 {
+    font-size: 20px;
+  }
+  .biography-area .biography-slider .biography-item .biography-text p {
+    margin-bottom: 0;
+  }
+  .biography-area .biography-slider .biography-item .biography-text .year {
+    display: none;
+  }
+  .biography-area.live {
+    padding-top: 60px;
+  }
+  .testimonial-area {
+    padding-bottom: 90px;
+  }
+  .testimonial-area .testimonial-slider .single-testimonial-card ul {
+    margin-bottom: 10px;
+  }
+  .testimonial-area .testimonial-slider .single-testimonial-card p {
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+  .testimonial-area .testimonial-slider .single-testimonial-card .profile h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .events-area {
+    padding-top: 40px;
+  }
+  .events-area .events-card {
+    display: none;
+  }
+  .events-area .single-events-card {
+    -webkit-box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+            box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+  }
+  .events-area .single-events-card .events-content ul {
+    margin-bottom: 10px;
+  }
+  .events-area .single-events-card .events-content ul li {
+    font-size: 13px;
+  }
+  .events-area .single-events-card .events-content h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .events-area.top {
+    padding-top: 0;
+  }
+  .future-card .future-content {
+    padding: 20px;
+  }
+  .future-card .future-content i {
+    bottom: 52px;
+  }
+  .future-card .future-content h3 {
+    margin-bottom: 15px;
+  }
+  .future-card .future-content h3 a {
+    font-size: 20px;
+  }
+  .future-card .future-content p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .about-leader-area .leader-img .leader-counter {
+    display: none;
+  }
+  .subscribe-area .subscribe-content h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .subscribe-area .subscribe-content .form-group .form-control {
+    height: 50px;
+  }
+  .subscribe-area .subscribe-content .form-group .default-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  .single-blog-card .blog-contant {
+    padding: 15px;
+  }
+  .single-blog-card .blog-contant ul {
+    margin-bottom: 10px;
+  }
+  .single-blog-card .blog-contant ul li {
+    font-size: 11px;
+  }
+  .single-blog-card .blog-contant h3 {
+    font-size: 20px;
+  }
+  .single-blog-card .blog-contant p {
+    margin-bottom: 15px;
+  }
+  .footer-area .logo-area {
+    margin-bottom: 30px;
+  }
+  .footer-area .logo-area img {
+    margin-bottom: 20px;
+  }
+  .footer-area .widget-area {
+    margin-bottom: 0px;
+  }
+  .footer-area .widget-area h3 {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  .footer-area .widget-area h3::before {
+    top: 30px;
+  }
+  .footer-area .widget-area ul li a {
+    font-size: 15px;
+  }
+  .footer-area .official-info h3 {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  .footer-area .official-info h3::before {
+    top: 30px;
+  }
+  .footer-area .official-info ul li {
+    font-size: 15px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content span {
+    font-size: 14px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content h1 {
+    font-size: 36px;
+    line-height: 46px;
+    margin-bottom: 20px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content p {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+  .banner-area3 .container-fluid .main-slider .slider-item .banner-content .btn-area {
+    margin-bottom: 20px;
+  }
+  .common-header {
+    margin-top: 73px;
+  }
+  .common-header .content {
+    padding: 80px 0;
+  }
+  .common-header .content h2 {
+    font-size: 32px;
+  }
+  .common-header .content ul li {
+    font-size: 15px;
+  }
+  .events-details-area .details h2 {
+    font-size: 24px;
+  }
+  .events-details-area .future .futures-card {
+    position: relative;
+    padding-left: 120px;
+    margin-bottom: 80px;
+  }
+  .events-details-area .list {
+    margin-bottom: 30px;
+  }
+  .mission-details-area .process {
+    margin-bottom: 30px;
+  }
+  .donation-area .donate ul {
+    margin-bottom: 30px;
+  }
+  .donation-area .donate ul li {
+    margin-bottom: 20px;
+    padding: 15px 20px;
+  }
+  .donation-area .form-group {
+    margin-bottom: 20px;
+  }
+  .volunteer .form-group {
+    margin-bottom: 20px;
+  }
+  .team-area .team-card .img-area .social-area ul li {
+    margin-right: 1px;
+  }
+  .testimonial-area {
+    padding-bottom: 40px;
+  }
+  .faq-area .faq-img {
+    margin-bottom: 30px;
+  }
+  .privacy-area h4 {
+    font-size: 20px;
+  }
+  .privacy-area p {
+    font-size: 14px;
+  }
+  .privacy-area ul li {
+    font: 14px;
+  }
+  .condition-area h4 {
+    font-size: 20px;
+  }
+  .condition-area p {
+    font-size: 14px;
+  }
+  .condition-area ul li {
+    font: 14px;
+  }
+  .register-area .registration {
+    padding: 20px;
+  }
+  .register-area .registration h3 {
+    font-size: 18px;
+  }
+  .register-area .registration .form-group {
+    margin-bottom: 20px;
+  }
+  .register-area .registration .form-group .form-control {
+    padding: 10px;
+  }
+  .login-area .login {
+    padding: 20px;
+  }
+  .login-area .login h3 {
+    font-size: 18px;
+  }
+  .login-area .login .form-group {
+    margin-bottom: 20px;
+  }
+  .login-area .login .form-group .form-control {
+    padding: 10px;
+  }
+  .error-area h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .error-area p {
+    font-size: 14px;
+  }
+  .comming-soon-area .comming-soon h1 {
+    font-size: 36px;
+  }
+  .search-area .form-group .form-control {
+    height: 46px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .banner-area .container-fluid .hero-slider .slider-item .banner-content h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .banner-area .container-fluid .hero-slider.owl-theme .owl-dots {
+    position: absolute;
+    left: 0;
+    bottom: 50px;
+  }
+  .donation .donation-counter {
+    padding: 30px 0;
+  }
+  .donation .donation-counter h1 {
+    font-size: 28px;
+  }
+  .counter-area .single-counter-card {
+    padding-left: 100px;
+  }
+  .counter-area .single-counter-card .icon {
+    left: 20px;
+  }
+  .biography-area .biography-slider .biography-item .biography-text {
+    padding: 13px;
+  }
+  .biography-area .biography-slider .biography-item .biography-text .year {
+    display: none;
+  }
+  .single-testimonial-card {
+    padding: 20px;
+  }
+  .single-testimonial-card ul {
+    margin-bottom: 10px;
+  }
+  .single-testimonial-card p {
+    margin-bottom: 20px;
+    font-size: 14px;
+  }
+  .single-testimonial-card .profile h4 {
+    font-size: 16px;
+  }
+  .single-testimonial-card .profile img {
+    top: -4px;
+  }
+  .single-events-card .events-content ul {
+    margin-bottom: 10px;
+  }
+  .single-events-card .events-content ul li {
+    font-size: 12px;
+  }
+  .single-events-card .events-content h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .single-events-card .events-content p {
+    font-size: 11px;
+  }
+  .single-blog-card .blog-contant ul {
+    margin-bottom: 10px;
+  }
+  .single-blog-card .blog-contant ul li {
+    font-size: 10px;
+  }
+  .single-blog-card .blog-contant h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .single-blog-card .blog-contant p {
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+  .ideology-area .single-ideology-card .ideology-content h3 {
+    font-size: 13px;
+  }
+  .donation .donation-content ul li {
+    font-size: 13px;
+    padding: 5px;
+  }
+  .donation .donation-content h3 {
+    font-size: 18px;
+  }
+  .events-details-area {
+    padding-bottom: 50px;
+  }
+  .events-details-area .details h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .events-details-area .details .list {
+    margin-bottom: 30px;
+  }
+  .events-details-area .events-details h3 {
+    font-size: 18px;
+  }
+  .events-details-area .events-details ul li {
+    padding-bottom: 10px;
+    font-size: 10px;
+  }
+  .events-details-area .future .futures-card h3 {
+    font-size: 15px;
+  }
+  .events-details-area .future .futures-card p {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 1320px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .mean-container a.meanmenu-reveal span {
+    height: 0;
+    margin-top: 4px;
+    border-radius: 0;
+    padding-top: 4px;
+    background: #F00041;
+  }
+  .mean-container a.meanmenu-reveal {
+    color: #F00041;
+  }
+  .mean-container .mean-bar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .mobile-nav .logo {
+    top: 19px;
+  }
+  .others-option-for-responsive {
+    display: block !important;
+  }
+  .others-option-for-responsive .dot-menu {
+    top: 28px;
+    z-index: 9999;
+  }
+  .others-option-for-responsive .container .container {
+    top: 85px;
+  }
+  .others-option-for-responsive .others-options ul li:first-child {
+    padding-left: 0;
+  }
+  .others-option-for-responsive .others-options ul li button {
+    background-color: #f9f9f9;
+    color: #000000;
+    height: 48px;
+    line-height: 31px;
+    font-size: 18px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

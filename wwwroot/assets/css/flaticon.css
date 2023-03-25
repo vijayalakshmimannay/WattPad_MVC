@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticond976.ttf?4f7700d6618cd0ef11fa9dc7cf3a6fc7") format("truetype"),
+url("../fonts/flaticond976.woff?4f7700d6618cd0ef11fa9dc7cf3a6fc7") format("woff"),
+url("../fonts/flaticond976.woff2?4f7700d6618cd0ef11fa9dc7cf3a6fc7") format("woff2"),
+url("../fonts/flaticond976.eot?4f7700d6618cd0ef11fa9dc7cf3a6fc7#iefix") format("embedded-opentype"),
+url("../fonts/flaticond976.svg?4f7700d6618cd0ef11fa9dc7cf3a6fc7#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-podium:before {
+    content: "\f101";
+}
+.flaticon-prioritize:before {
+    content: "\f102";
+}
+.flaticon-target:before {
+    content: "\f103";
+}
+.flaticon-timer:before {
+    content: "\f104";
+}
+.flaticon-raising-hand:before {
+    content: "\f105";
+}
+.flaticon-blood-drop:before {
+    content: "\f106";
+}
+.flaticon-voting-box:before {
+    content: "\f107";
+}
+.flaticon-calendar:before {
+    content: "\f108";
+}
+.flaticon-france:before {
+    content: "\f109";
+}
+.flaticon-play-button-arrowhead:before {
+    content: "\f10a";
+}
+.flaticon-triumph:before {
+    content: "\f10b";
+}
+.flaticon-flag:before {
+    content: "\f10c";
+}
+.flaticon-political-party:before {
+    content: "\f10d";
+}
+.flaticon-30-minutes:before {
+    content: "\f10e";
+}
+.flaticon-quote:before {
+    content: "\f10f";
+}
+.flaticon-rocket:before {
+    content: "\f110";
+}
+.flaticon-heart:before {
+    content: "\f111";
+}
+.flaticon-minute:before {
+    content: "\f112";
+}
